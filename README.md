@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Production+ML+Systems;Backend+%2B+MLOps+Engineer;Agentic+AI+Explorer;Cloud+Native+Developer&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Production+AI+Systems;Backend+%2B+MLOps+Engineer;Agentic+AI+Explorer;Cloud+Native+Developer&center=true&width=600&height=45">
 </p>
 
 <p align="center">
